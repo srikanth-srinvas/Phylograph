@@ -1,0 +1,5 @@
+
+#### `requirements.txt`
+```text
+biopython
+matplotlib
